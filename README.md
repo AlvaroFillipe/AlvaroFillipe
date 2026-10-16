@@ -1,47 +1,54 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<h1 align="center">Olá, eu sou o Alvaro Fillipe 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Alvaro+Fillipe+Vicente-da+Silveira;I'm+21+years+old;I+´m+from+Brazil,+SP;I+study+Analise+e+Desenvolvimento+de+sistemas+Universidade+São+Judas;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlvaroFillipe&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Alvaro Fillipe Vicente da Silveira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroFillipe&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlvaroFillipe&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <b>Técnico de Suporte · Estudante de Análise e Desenvolvimento de Sistemas</b><br>
+  Gosto de resolver problemas — seja na web, na infraestrutura ou no dia a dia de quem usa a tecnologia.
 </p>
 
-<div align="center">  
-<a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
-  
+<p align="center">
+  <img src="https://img.shields.io/badge/📍-São%20Paulo,%20Brasil-0d1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎓-ADS%20·%20São%20Judas-0d1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/🌎-Inglês%20avançado-0d1117?style=flat-square" />
+</p>
 
-### Main skills:
-![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![PHP7](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+---
 
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+### 🧑‍💻 Sobre mim
 
-### Other Knowledge:
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+- 🛠️ Atuo como **Técnico de Suporte** no **Clube Atlético Juventus**, cuidando de usuários, equipamentos e da rede.
+- 🎓 Curso **Análise e Desenvolvimento de Sistemas** na Universidade São Judas (penúltimo semestre).
+- 🧩 Meu foco é **solução de problemas**: entender a causa, encontrar a melhor saída e documentar para não acontecer de novo.
+- 🌎 Inglês avançado (leitura e escrita técnica tranquilas, ainda não fluente na conversação).
+- 🌱 Estudando agora: **Python** e boas práticas de desenvolvimento web.
 
+### 🚀 Em destaque
 
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AlvaroFillipe}/count.svg" /></p> 
-<br></div>
-  
+| Projeto | Descrição | Stack |
+|---|---|---|
+| **Basecamp Juventus** *(privado, em desenvolvimento)* | Sistema interno de chamados, gestão de documentos e contratos para o clube | PHP · MySQL |
+| [**App Contas a Pagar**](https://github.com/AlvaroFillipe/App-contas-a-pagar) | CRUD para organizar compras parceladas por cartão, parcelas pagas e total restante | PHP · MySQL · PDO |
+| [**App Dashboard**](https://github.com/AlvaroFillipe/App-dashboard) | Painel de indicadores de vendas, clientes e atendimentos filtrado por competência via AJAX | PHP · jQuery · MySQL |
+| [**App Consulta CEP**](https://github.com/AlvaroFillipe/App-Consulta-CEP) | Preenchimento automático de endereço a partir do CEP usando a API ViaCEP | JavaScript · AJAX |
+| [**ADD ConstruDecor**](https://github.com/AlvaroFillipe/serrilharia_add) | Página de anúncio interativo para uma loja de materiais de construção | HTML · CSS · JS |
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+### 🧰 Tecnologias e ferramentas
+
+**Desenvolvimento**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,jquery,python" />
+</p>
+
+**Suporte e infraestrutura**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,linux,git,github,vscode" />
+</p>
+
+- Atendimento e help desk, manutenção de computadores e periféricos
+- Redes: cabeamento, switches, Wi-Fi e diagnóstico de conectividade
+- Pacote Office / Microsoft 365
+
+---
+
+<p align="center"><i>"Todo problema tem solução — às vezes só falta encontrar a pergunta certa."</i></p>
